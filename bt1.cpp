@@ -11,5 +11,4 @@ int main() {
     std:: cin >> namsinh;
     if (namsinh<2023) {std:: cout << "Chao ban " << ten << ", nam nay ban " << 2023 - namsinh << " tuoi.";}
     else std:: cout << "Khong hop le";
-    std:: cout << "Tin dep trai, ahihi."
 }
